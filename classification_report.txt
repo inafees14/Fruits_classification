@@ -1,0 +1,17 @@
+              precision    recall  f1-score   support
+
+  Strawberry       0.96      0.96      0.96       610
+   apple_jpg       0.78      0.89      0.83       634
+      banana       0.98      0.85      0.91       584
+  cantaloupe       0.94      0.95      0.95       614
+      cherry       0.94      0.89      0.91       449
+       grape       0.93      0.90      0.91       471
+   kiwifruit       0.94      0.86      0.90       589
+       mango       0.78      0.85      0.81       615
+      orange       0.93      0.94      0.93       594
+   pineapple       0.96      0.98      0.97       612
+  watermelon       0.98      0.98      0.98       587
+
+    accuracy                           0.91      6359
+   macro avg       0.92      0.91      0.92      6359
+weighted avg       0.92      0.91      0.91      6359
